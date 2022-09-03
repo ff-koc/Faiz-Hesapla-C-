@@ -1,0 +1,5 @@
+C:\Furkan\VS\Faiz\faiz.exe
+C:\Furkan\VS\Faiz\faiz.dll
+C:\Furkan\VS\Faiz\faiz.deps.json
+C:\Furkan\VS\Faiz\faiz.runtimeconfig.json
+C:\Furkan\VS\Faiz\faiz.pdb

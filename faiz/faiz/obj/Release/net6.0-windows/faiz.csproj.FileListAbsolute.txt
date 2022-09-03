@@ -1,0 +1,17 @@
+C:\Users\ffurk\source\repos\faiz\faiz\bin\Release\net6.0-windows\faiz.exe
+C:\Users\ffurk\source\repos\faiz\faiz\bin\Release\net6.0-windows\faiz.deps.json
+C:\Users\ffurk\source\repos\faiz\faiz\bin\Release\net6.0-windows\faiz.runtimeconfig.json
+C:\Users\ffurk\source\repos\faiz\faiz\bin\Release\net6.0-windows\faiz.dll
+C:\Users\ffurk\source\repos\faiz\faiz\bin\Release\net6.0-windows\faiz.pdb
+C:\Users\ffurk\source\repos\faiz\faiz\obj\Release\net6.0-windows\faiz.csproj.AssemblyReference.cache
+C:\Users\ffurk\source\repos\faiz\faiz\obj\Release\net6.0-windows\faiz.Form1.resources
+C:\Users\ffurk\source\repos\faiz\faiz\obj\Release\net6.0-windows\faiz.csproj.GenerateResource.cache
+C:\Users\ffurk\source\repos\faiz\faiz\obj\Release\net6.0-windows\faiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ffurk\source\repos\faiz\faiz\obj\Release\net6.0-windows\faiz.AssemblyInfoInputs.cache
+C:\Users\ffurk\source\repos\faiz\faiz\obj\Release\net6.0-windows\faiz.AssemblyInfo.cs
+C:\Users\ffurk\source\repos\faiz\faiz\obj\Release\net6.0-windows\faiz.csproj.CoreCompileInputs.cache
+C:\Users\ffurk\source\repos\faiz\faiz\obj\Release\net6.0-windows\faiz.dll
+C:\Users\ffurk\source\repos\faiz\faiz\obj\Release\net6.0-windows\refint\faiz.dll
+C:\Users\ffurk\source\repos\faiz\faiz\obj\Release\net6.0-windows\faiz.pdb
+C:\Users\ffurk\source\repos\faiz\faiz\obj\Release\net6.0-windows\faiz.genruntimeconfig.cache
+C:\Users\ffurk\source\repos\faiz\faiz\obj\Release\net6.0-windows\ref\faiz.dll
